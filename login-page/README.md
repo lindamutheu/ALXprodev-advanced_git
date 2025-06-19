@@ -15,4 +15,4 @@ Learn how to work with feature branches in GitFlow.
 
 ## Notes
 This scaffolding sets up the foundation for implementing the login feature in upcoming updates.
-Login Feature Coming soon
+Login Feature Coming soon. #week 7
